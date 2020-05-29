@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Soldat</defName>
+    <label>Soviet Aviation - Soldat</label>
+    <description>Soviet Military Aviation Rank - Soldat</description>
+    <icon>PawnBadge/SovietAv/private</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Efreitor</defName>
+    <label>Soviet Aviation - Efreitor</label>
+    <description>Soviet Military Aviation Rank - Efreitor</description>
+    <icon>PawnBadge/SovietAv/efreitor</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_MSergeant</defName>
+    <label>Soviet Aviation - Molohze-Sergeant</label>
+    <description>Soviet Military Aviation Rank - Molozhe-Sergeant</description>
+    <icon>PawnBadge/SovietAv/msergeant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Sergeant</defName>
+    <label>Soviet Aviation - Sergeant</label>
+    <description>Soviet Military Aviation Rank - Sergeant</description>
+    <icon>PawnBadge/SovietAv/sergeant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_SSergeant</defName>
+    <label>Soviet Aviation - Starshiy-Sergeant</label>
+    <description>Soviet Military Aviation Rank - Starshiy-Sergeant</description>
+    <icon>PawnBadge/SovietAv/ssergeant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Starshina</defName>
+    <label>Soviet Aviation - Starshina</label>
+    <description>Soviet Military Aviation Rank - Starshina</description>
+    <icon>PawnBadge/SovietAv/starshina</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Praporshchik</defName>
+    <label>Soviet Aviation - Praporshchik</label>
+    <description>Soviet Military Aviation Rank - Praporshchik</description>
+    <icon>PawnBadge/SovietAv/praporshchik</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_SPraporshchik</defName>
+    <label>Soviet Aviation - Starshiy-Praporshchik</label>
+    <description>Soviet Military Aviation Rank - Starshiy-Praporshchik</description>
+    <icon>PawnBadge/SovietAv/spraporshchik</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_MLieutenant</defName>
+    <label>Soviet Aviation - Molozhe-Lieutenant</label>
+    <description>Soviet Military Aviation Rank - Molozhe-Lieutenant</description>
+    <icon>PawnBadge/SovietAv/mlieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Lieutenant</defName>
+    <label>Soviet Aviation - Lieutenant</label>
+    <description>Soviet Military Aviation Rank - Lieutenant</description>
+    <icon>PawnBadge/SovietAv/lieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Starshiy-Lieutenant</defName>
+    <label>Soviet Aviation - Starshiy-Lieutenant</label>
+    <description>Soviet Military Aviation Rank - Starshiy-Lieutenant</description>
+    <icon>PawnBadge/SovietAv/slieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Kaptain</defName>
+    <label>Soviet - Kaptain</label>
+    <description>Soviet Military Aviation Rank - Kaptain</description>
+    <icon>PawnBadge/SovietAv/captain</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Major</defName>
+    <label>Soviet Aviation - Major</label>
+    <description>Soviet Military Aviation Rank - Major</description>
+    <icon>PawnBadge/SovietAv/major</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Podpolkovnik</defName>
+    <label>Soviet Aviation - Podpolkovnik</label>
+    <description>Soviet Military Aviation Rank - Podpolkovnik</description>
+    <icon>PawnBadge/SovietAv/podpolkovnik</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_Polkovnik</defName>
+    <label>Soviet Aviation - Polkovnik</label>
+    <description>Soviet Military Aviation Rank - Polkovnik</description>
+    <icon>PawnBadge/SovietAv/polkovnik</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_General-Major</defName>
+    <label>Soviet Aviation - General-Major</label>
+    <description>Soviet Military Aviation Rank - General-Major</description>
+    <icon>PawnBadge/SovietAv/gmajor</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_General-Lieutenant</defName>
+    <label>Soviet Aviation - General-Lieutenant</label>
+    <description>Soviet Military Aviation Rank - General-Lieutenant</description>
+    <icon>PawnBadge/SovietAv/gmajor</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_General-Polkovnik</defName>
+    <label>Soviet Aviation - General-Polkovnik</label>
+    <description>Soviet Military Aviation Rank - General-Polkovnik</description>
+    <icon>PawnBadge/SovietAv/glieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietAv_MarshalAv</defName>
+    <label>Soviet Aviation - Air Marshal</label>
+    <description>Soviet Military Aviation Rank - Air Marshal</description>
+    <icon>PawnBadge/SovietAv/amarshal</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>Soviet_CAMarshal</defName>
+    <label>Soviet Aviation - Chief Air Marshal</label>
+    <description>Soviet Military Aviation Rank - Chief Air Marshal of the Soviet Union</description>
+    <icon>PawnBadge/SovietAv/camarshal</icon>
+  </RR_PawnBadge.BadgeDef>
+</Defs>
