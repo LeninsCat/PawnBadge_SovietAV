@@ -4,22 +4,22 @@
   <author>Lenin's Cat</author>
   <supportedVersions>
     <li>1.0</li>
-        <li>1.1</li>
+    <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <description> 
     Adds Soviet military rank badges from "Soldat" to "Chief Marshal of Aviation of the Soviet Union"
   </description>
   <packageId>LeninsCat.SovietAVPawnBadge</packageId>
-<modDependencies>
-	  <li>
-		<packageId>SaucyPigeon.PawnBadge</packageId>
-		<displayName>Pawn Badge Fan Fork</displayName>
-		<downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
-		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2112663412</steamWorkshopUrl>
-	  </li>
-	</modDependencies>
-
-	<loadAfter>
-	  	<li>SaucyPigeon.PawnBadge</li>
-	</loadAfter>
+  <modDependencies>
+    <li>
+      <packageId>SaucyPigeon.PawnBadge</packageId>
+      <displayName>Pawn Badge Fan Fork</displayName>
+      <downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2112663412</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>SaucyPigeon.PawnBadge</li>
+  </loadAfter>
 </ModMetaData>
